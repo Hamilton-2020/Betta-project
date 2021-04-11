@@ -1,0 +1,50 @@
+.intro{
+    background-color: rgb(140, 140, 235);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.faqs{
+    background-color: rgb(140, 140, 235);
+    display: flex;
+    justify-content: space-safely;
+}
+
+.here{
+    display: flex;
+    justify-content: space-safely;
+}
+
+.cleaning{
+    background-color: cornflowerblue;
+}
+
+.fun{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.funFacts{
+    background-color: rgb(100, 149, 237);
+}
+
+.matelist{
+    background-color: cornflowerblue;
+}
+
+.moreinfo{
+    display: flex;
+    justify-content: safe;
+}
+
+.tank{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.abuse{
+    display: flex;
+    justify-content: space-between;
+}
